@@ -3,3 +3,6 @@ https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=BdS8_s2p8MqzMG
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://nowmetv.com/wp-content/uploads/2023/10/dbc.webp",Dbc news
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=FSft277asUrnH3pZXiEakA&expires=1718126152&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://nowmaxtv.com/wp-content/uploads/2020/07/images-1-24.png", Nicklodian Sonic
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8 
